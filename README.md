@@ -1,5 +1,10 @@
 # Autopilot
 
+This project was created as one of many assignements during my university course. 
+With this web app you can simulate setting wind course and course over ground for a sailing yacht. App allows entering yacht parameters that are needed for calculations as well as parameters of wind and water current. 
+Once all required data is entered and submited an animation will be visible, showing yacht's course, sail setting, wind direction and compass course.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
